@@ -1,0 +1,9 @@
+
+Python 
+Jupyter 
+DuckDB
+NumPy
+Pandas
+Matplotlib
+Scikit-learn
+oblib
